@@ -1,5 +1,5 @@
 {
-  "name": "v-single",
+  "name": "v2ray-dan",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
@@ -10,7 +10,7 @@
       "value": "3a53a3e5-da83-48d2-aee9-d88a498eb3dd"
     }
   },
-  "website": "https://github.com/JuwanSimonis/",
-  "repository": "https://github.com/JuwanSimonis/v-single",
+  "website": "https://github.com/AmirDare/",
+  "repository": "https://github.com/AmirDare/v2ray-dan",
   "stack": "container"
 }
